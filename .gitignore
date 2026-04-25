@@ -1,0 +1,4 @@
+dbpulse
+*.o
+data/*,db
+
